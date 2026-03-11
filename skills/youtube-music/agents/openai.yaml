@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Music"
+  short_description: "Download YouTube or YouTube Music audio to a local file."
+  default_prompt: "Use $youtube-music to turn a YouTube or YouTube Music link or search query into a stable local audio file. In a Clawatch conversation, play it on the current watch automatically. In Telegram, send the downloaded file back as media."
